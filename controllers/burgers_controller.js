@@ -1,6 +1,6 @@
 const express = require("express");
 
-const router = experss.Router();
+const router = express.Router();
 
 const burger = require("../models/burger.js");
 
